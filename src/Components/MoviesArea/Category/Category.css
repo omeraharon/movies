@@ -1,0 +1,16 @@
+.Category {
+	background-color: black;
+    display: inline-block;
+    text-align: center;
+}
+
+.Category .backButton {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+.Category .page-style {
+    margin: 5px;
+}
+

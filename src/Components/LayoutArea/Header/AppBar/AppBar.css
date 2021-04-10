@@ -1,0 +1,17 @@
+.AppBar {
+    background-color: #111;
+}
+
+.AppBar .textColor {
+    color: rgb(107, 8, 8);
+}
+.AppBar .searchButton {
+    background-color: rgb(107, 8, 8);
+    border: none;
+    margin: 10px auto;
+}
+.AppBar .searchButton :hover {
+    background-color: rgb(107, 8, 8);
+    border: none;
+}
+

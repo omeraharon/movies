@@ -1,0 +1,21 @@
+.Header {
+	width: 100%;
+    height: 50%;
+    border-bottom: 1px solid rgb(112, 2, 2, .5);
+    box-sizing: border-box;
+    display: inline-block;
+    background-image: url(../../../Assets/Images/header.jpg);
+}
+
+.Header h1 {
+    color: white;
+}
+.Header h3 {
+    color: red;
+}
+
+.Header .search-area {
+    width: 60%;
+    text-align: center;
+    margin: 90px auto;
+}

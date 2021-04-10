@@ -1,0 +1,12 @@
+.MovieCard {
+    max-width: 20%;
+    height: 20%;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.MovieCard div img {
+    width: 100%;
+}

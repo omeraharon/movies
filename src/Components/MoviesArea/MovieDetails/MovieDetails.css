@@ -1,0 +1,17 @@
+.MovieDetails {
+    margin: 30px auto;
+    width: 60%;
+    align-items: center;
+}
+
+.MovieDetails img {
+    width: 40%;
+    height: 40%;
+    margin: 10px auto;
+}
+
+.MovieDetails .backButton {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}

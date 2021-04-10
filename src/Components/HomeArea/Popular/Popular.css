@@ -1,0 +1,10 @@
+.Popular {
+    text-align: center;
+    background-color: rgba(66, 66, 66, 0.4);
+}
+
+.Popular h3 {
+    background-color: black;
+    padding-top: 10px;
+    height: 60px;
+}

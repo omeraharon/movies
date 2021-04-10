@@ -1,0 +1,23 @@
+.Search .search-input {
+    background: rgba(26, 26, 26, 0.8);
+    width: 100%;
+    border-radius: 5px;
+    height: 50px;
+    border: 1px solid rgb(112, 2, 2, .2);
+    color: white;
+}
+
+.Search .search-block {
+    overflow: auto;
+    width: 100%;
+    height: 180px;
+    text-align: left;
+}
+
+.Search .search-link {
+	display: block;
+    color: white;
+    text-decoration: white;
+}
+
+
